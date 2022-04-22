@@ -1,5 +1,8 @@
 _repo: Part-II-of-Farnham-s-Travels-in-the-Great-Western-Prairies-etc-October-21-December-4-1839-and__67730
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67730-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Farnham, Thomas Jefferson
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '33780'
     url: http://www.gutenberg.org/2009/agents/33780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67730#Part-II-of-Farnham-s-Travels-in-the-Great-Western-Prairies-etc-October-21-December-4-1839-and_
 gutenberg_issued: '2022-03-28'
 identifiers:
   gutenberg: '67730'
