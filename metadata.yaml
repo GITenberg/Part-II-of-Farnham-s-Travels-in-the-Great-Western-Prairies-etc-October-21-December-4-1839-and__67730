@@ -1,0 +1,41 @@
+_repo: Part-II-of-Farnham-s-Travels-in-the-Great-Western-Prairies-etc-October-21-December-4-1839-and__67730
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Farnham, Thomas Jefferson
+    alias: Farnham, T. J. (Thomas Jefferson)
+    birthdate: 1804
+    deathdate: 1848
+    gutenberg_agent_id: '39244'
+    url: http://www.gutenberg.org/2009/agents/39244
+  - agent_name: Smet, Pierre Jean de
+    gutenberg_agent_id: '54425'
+    url: http://www.gutenberg.org/2009/agents/54425
+  editor:
+    agent_name: Thwaites, Reuben Gold
+    alias: Thwaites, R. G. (Reuben Gold)
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '33780'
+    url: http://www.gutenberg.org/2009/agents/33780
+description: ''
+gutenberg_issued: '2022-03-28'
+identifiers:
+  gutenberg: '67730'
+language: en
+pgterms:marc904: http://www.archive.org/details/earlywesterntrav29thwa
+pgterms:marc905: 20111001071658thwaites
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Greg Bergquist and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :The Arthur H. Clark Company,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Part II of Farnham's Travels in the Great Western Prairies, etc., October 21-December
+  4, 1839; and De Smet's Oregon Missions and Travels over the Rocky Mountains, 1845-1846
+url: http://www.gutenberg.org/ebooks/67730
